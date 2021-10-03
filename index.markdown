@@ -5,9 +5,13 @@
 layout: default
 ---
 
-# Bath Computer Science Links
+# Bath Computer Science Society Links
+
+Links:
 
 - [SU page](https://www.thesubath.com/bcss/)
 - [Bath Computer Science Discord](https://discord.gg/gDYbrpK)
+- [Instagram](https://www.instagram.com/bathcompsci)
+- [Twitter](https://twitter.com/bathcss?lang=en)
+- [Email us](mailto:su-bcss@bath.ac.uk)
 
-## Information
