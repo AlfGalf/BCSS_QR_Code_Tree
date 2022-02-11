@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
@@ -9,6 +6,7 @@ layout: default
 
 Links:
 
+- [Wackathon](https://wackathon.bcss.website/)
 - [SU page](https://www.thesubath.com/bcss/)
 - [Student freebies](https://docs.google.com/document/d/1NFGVWmWMrlRKjpWRIsKL4RPe6lG3TP3g/edit?usp=drivesdk&ouid=103084223961007433008&rtpof=true&sd=true)
 - [Bath Computer Science Discord](https://discord.gg/gDYbrpK)
@@ -16,4 +14,3 @@ Links:
 - [Facebook](https://www.facebook.com/bathcompsci/)
 - [Twitter](https://twitter.com/bathcss?lang=en)
 - [Email us](mailto:su-bcss@bath.ac.uk)
-
